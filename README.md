@@ -11,7 +11,7 @@ Use it **only for authorized testing and bug bounty research**.
 ## 📥 Download the repo and view the list
 
 ```bash
-# Clone repo (replace <repo-url> with your repo link)
+# Clone repo 
 git clone https://github.com/alhamrizvi-cloud/XSS-2500-Payload-list-.git
 cd XSS-2500-Payload-list-
 ls
