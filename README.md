@@ -1,4 +1,4 @@
-# 🧠 XSS-2500-Payload-List
+# XSS-2500-Payload-List
 
 **This payload list is super helpful for Security Researchers and Penetration Testers.**
 
