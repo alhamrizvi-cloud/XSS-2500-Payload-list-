@@ -15,4 +15,4 @@ Use it **only for authorized testing and bug bounty research**.
 git clone https://github.com/alhamrizvi-cloud/XSS-2500-Payload-list-.git
 cd XSS-2500-Payload-list-
 ls
-cat payloads.txt
+cat xsspayloadsbyalham.txt
