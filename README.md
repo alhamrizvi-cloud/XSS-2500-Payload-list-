@@ -12,7 +12,7 @@ Use it **only for authorized testing and bug bounty research**.
 
 ```bash
 # Clone repo (replace <repo-url> with your repo link)
-git clone https://github.com/<your-username>/xss-payloads.git
-cd xss-payloads
+git clone https://github.com/alhamrizvi-cloud/XSS-2500-Payload-list-.git
+cd XSS-2500-Payload-list-
 ls
 cat payloads.txt
